@@ -2,7 +2,7 @@
   "name": "spawn",
   "description": "Spawns processes for multiprocessing.",
   "author": "Alex Iskander",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "lib": "lib",
   "repositories": [
     { "type": "git", "url": "git://github.com/ialexi/spawn.git" }
